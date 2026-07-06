@@ -139,6 +139,7 @@ SELECT COUNT(*) FROM hotel_bookings;
 SELECT COUNT(*) FROM booking_events;
 ```
 
+
 If records are displayed, restore was successful.
 
 ---
